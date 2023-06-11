@@ -7,7 +7,7 @@ Clipboard landing page from Tailwind course.
 - Install dependencies
 
 ```
-npm Install
+npm install
 ```
 
 - Run Tailwind CLI
@@ -20,7 +20,7 @@ npm run watch
 
 ### Link
 
-[Go to website]()
+[Go to website](https://project-tail-clip.netlify.app/)
 
 ### Image
 
