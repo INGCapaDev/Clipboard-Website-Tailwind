@@ -4,13 +4,13 @@ Clipboard landing page from Tailwind course.
 
 ## Usage
 
-Install dependencies
+- Install dependencies
 
 ```
 npm Install
 ```
 
-Run Tailwind CLI
+- Run Tailwind CLI
 
 ```
 npm run watch
